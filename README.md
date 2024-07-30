@@ -4,11 +4,10 @@
   Know always more in the technology world;
 
 - 🌱 I’m currently learning ...
-  Software Engineering in the University, a lot of videos in the YouTube
-  and a front-end online course
+  Software Engineering on Uninter (Brazilian University)
 
 - 💞️ I’m looking to collaborate on ...
-  learn to make other people learn to
+  make world better being useful using technology.
 
 - 📫 How to reach me ...
-  @pedrinhofutsal11 on Instagram; or pedroguedes96@hotmail.com.
+  by searching @pedrinhofutsal11 on Instagram or pedroguedes96@hotmail.com.
