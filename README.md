@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @PedroGuedes11
 
 - 👀 I’m interested in ...
-  Know always more in the technology world;
+  Learning always, more and more;
 
 - 🌱 I’m currently learning ...
-  Software Engineering on Uninter (Brazilian University)
+  Software Engineering on Uninter (Brazilian University);
 
 - 💞️ I’m looking to collaborate on ...
-  make world better being useful using technology.
+  developing quality softwares, looking for the first job.
 
 - 📫 How to reach me ...
-  by searching @pedrinhofutsal11 on Instagram or pedroguedes96@hotmail.com.
+  by searching @pedrinhofutsal11 on Instagram or mailing pedroguedes96@hotmail.com.
